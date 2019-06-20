@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleSecurityLib</string>
+    <string name="secure_me">Secure me</string>
+</resources>
